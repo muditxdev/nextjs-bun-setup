@@ -22,7 +22,7 @@ A modern Next.js application bootstrapped with TurboPack, TypeScript, and Bun pa
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/muditxdev/nextjs-bun-setup.git
 cd your-repo-name
 
 # Install dependencies
